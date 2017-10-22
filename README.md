@@ -1,7 +1,7 @@
 # TEST
 test project, no useful content
 
-Template:
+Template from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2:
 
 # Project Title
 
